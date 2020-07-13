@@ -1,5 +1,5 @@
 # Mines Weeper
-simple console minesweeper
+Simple console minesweeper
 
  <img alt="console" src="https://www.dropbox.com/s/33s5y27s7i1j8ns/minesweeper.png?raw=1">
 
